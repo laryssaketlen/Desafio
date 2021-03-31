@@ -1,6 +1,6 @@
 from PIL import Image
 
-img = Image.open("C:/Users/larys/Downloads/Syngenta.bmp")
+img = Image.open('Syngenta.bmp')
 cores = img.convert('RGB').getcolors()
 verdes = cores[1][0]
 
