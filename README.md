@@ -5,7 +5,7 @@
 - Instale a biblioteca Pillow
 
 ``` bash
-$ pip install - requeriments.txt	
+$ pip install -r requeriments.txt	
 ```
 - Execute o código
 
